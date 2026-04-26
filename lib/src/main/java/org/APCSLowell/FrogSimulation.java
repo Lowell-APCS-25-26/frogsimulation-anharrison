@@ -30,6 +30,7 @@ public class FrogSimulation {
         return false;
     }
 
+    
     public double runSimulations(int num) {
         /* to be implemented in part (b) */
     int successCount = 0;
